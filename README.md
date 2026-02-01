@@ -89,6 +89,6 @@ graph TD
     GC_Worker -.->|"Delete Vectors"| Qdrant
 
     %% --- Links Styling ---
-    linkStyle default stroke-width:2px,fill:none,stroke:#546e7a;
+    %% linkStyle default stroke-width:2px,fill:none,stroke:#546e7a;
 
 ```
